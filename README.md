@@ -40,6 +40,9 @@ You can also pass optional game event parameters when raising an event.
     EventsManager.Instance.RaiseEvent("EventName" , new GameEventParameters(0,0,null, null));
 ```
 
+## Download the Package:
+[Unity Package - Observer Pattern](https://github.com/FarrukhSajjad/Observer-Pattern-Unity/blob/master/ObserverPattern.unitypackage)
+
 | RELEASE  | DATE |
 | ------------- | ------------- |
 | v0.0.01  | Feb 20th, 2023  |
