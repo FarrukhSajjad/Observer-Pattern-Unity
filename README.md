@@ -11,7 +11,7 @@ This package includes 2 mono behavior scripts that you will need to attach to tw
 ### EventsManager:
 Events Manager will be responsible to raise the events you have created and added in your game.
 
-###EventListener:
+### EventListener:
 Event Listener will be responsible to listen and generate the response to that corresponding event that you just raised.
 
 There are two addition scripts, i.e., GameEvents and GameEventsParameters.
@@ -20,7 +20,7 @@ There are two addition scripts, i.e., GameEvents and GameEventsParameters.
 This will allow you to create game events in your unity editor.
 Simply right click in your assets window and goto game event. Create Game event and rename it whatever you want
 
-###GameEventParameters:
+### GameEventParameters:
 The parameters that you want to pass through when you raise an event.
 
 
