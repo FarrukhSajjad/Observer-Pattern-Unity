@@ -40,6 +40,11 @@ You can also pass optional game event parameters when raising an event.
     EventsManager.Instance.RaiseEvent("EventName" , new GameEventParameters(0,0,null, null));
 ```
 
+<<<<<<< HEAD
 | RELEASE  | DATE |
 | ------------- | ------------- |
 | v0.0.01  | Feb 20th, 2023  |
+=======
+RELEASE
+v0.0.01 | Febraury 20th, 2023
+>>>>>>> 5fa76bfd6ef808017ec9c269b2af372469b614a7
